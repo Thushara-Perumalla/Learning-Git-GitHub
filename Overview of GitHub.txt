@@ -1,0 +1,12 @@
+GitHub is a web-based platform for version control and collaboration that lets you and others work together on projects from anywhere. 
+
+It offers features such as:
+Repository hosting for Git, the version control system
+Issues tracking
+Pull requests for code review and collaboration
+Project management tools
+Documentation and wikis
+A platform for buying and selling tools and services
+A large community of developers to connect with and contribute to open-source projects
+GitHub has become one of the largest open-source communities, with over 100 million repositories and 40 million users. 
+It is widely used by individuals, businesses, and organizations for personal and professional projects.
